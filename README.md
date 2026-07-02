@@ -5,11 +5,7 @@
 [![Language: Kotlin](https://img.shields.io/badge/Client-Android_(Kotlin)-073042?logo=kotlin)](#)
 [![Framework: Flask](https://img.shields.io/badge/Framework-Flask-000000?logo=flask)](#)
 
-🌍 **[Read in English](#-english-version)** | 🇭🇺 **[Ugrás a Magyar Verzióra](#-magyar-verzió)**
-
 ---
-
-## 🇬🇧 English Version
 
 ### 📖 Project Overview
 This repository contains the source code for my BSc Thesis in Computer Science Engineering: **"Multimodal Smart Lock Control: Android-based system on Raspberry Pi platform"**. 
